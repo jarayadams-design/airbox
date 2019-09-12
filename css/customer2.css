@@ -1,0 +1,158 @@
+body {
+   
+    background: #2f2d43
+}
+header{
+    background: rgb(3, 3, 53);
+    border-bottom:1px solid grey;
+}
+header nav {
+   list-style: none;
+   float: right;
+   padding-top: 65px;
+
+}
+header li{
+    display: inline;
+    
+}
+    
+header a{
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 13px;
+    color: aliceblue;
+    padding: 10px 10px;
+}
+h1{ 
+    font-size: 48px;
+    color: aliceblue;
+    position: absolute;
+    top: 22px;
+    left: 113px;
+
+}
+header h2{
+    color: antiquewhite;
+    position: absolute;
+    top: 86px;
+    left: 119px;
+    font-size: 15px;
+    
+   
+}
+.button {
+    border-radius: 10%;
+    padding: 5px;
+}
+.button--primary{
+  background:#626077;
+ color: antiquewhite;
+  
+}
+.button--secondary{
+   background: orange;
+}
+.block--primary{
+    /* padding: 10px; */
+  background: #2f2d43
+}
+.block--secondary {
+    background: #f09964;
+}
+
+.logo-brand {
+    float: left;
+    
+}
+
+.thin{
+font-weight: 100;
+color: grey;
+margin: 0px;
+font-size: 50px;
+
+
+
+
+}
+
+.box{
+position: relative;
+
+}
+.hero--text{
+     padding: 70px;
+    text-align: center;
+    color: grey;
+  
+
+}
+.hero--block {
+    text-align: center;
+    font-size: 32px;
+    color: gray;
+   
+}
+.hero--info{
+    text-align: center;
+    width: 30%;
+    margin-left: 500px;
+
+}
+.hero-lorem{
+   padding: 0 0 0 180px;
+    width: 60%;
+}
+.hero--block span{
+    color: antiquewhite;
+    font-size: 48px;
+    font: left;
+
+}
+.float--one{
+    background: #f09964;
+
+}
+.float--two{
+    float: left;
+   
+}
+.clear-float{
+    clear: both;
+}
+    
+
+.circle{
+    border-radius: 60%;
+    width: 75px;
+    height: 75px;
+    background: rgb(3, 3, 53);
+    margin-left: 50px;
+}
+.o2{
+background: rgb(164,138,191);
+background: radial-gradient(circle, rgba(164,138,191,1) 0%, rgba(162,140,194,1) 100%);
+    float: left;
+    margin: 60px;
+    height: 40px;
+    width: 35px;
+    font-size: 35px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: antiquewhite;
+}
+main{
+background:#f09964 ;
+
+}
+.multi-domain img{
+    border-radius: 50%;
+}
+.bottom{
+    background: grey;
+}
+.post{
+    background: #2f2d43;
+}
